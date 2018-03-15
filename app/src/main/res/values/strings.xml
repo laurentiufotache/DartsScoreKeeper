@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Darts Score Keeper</string>
+    <string name="_75_points">+75 POINTS</string>
+    <string name="_50_points">+50 POINTS</string>
+    <string name="_20_points">+20 POINTS</string>
+    <string name="_10_points">+10 POINTS</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="reset_score">Reset Score</string>
+</resources>

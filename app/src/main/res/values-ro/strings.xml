@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Darts Score Keeper</string>
+    <string name="_75_points">+75 PUNCTE</string>
+    <string name="_50_points">+50 PUNCTE</string>
+    <string name="_20_points">+20 PUNCTE</string>
+    <string name="_10_points">+10 PUNCTE</string>
+    <string name="team_a">Echipa A</string>
+    <string name="team_b">Echipa B</string>
+    <string name="reset_score">Reseteaza Scor</string>
+</resources>
